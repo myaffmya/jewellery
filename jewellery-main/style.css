@@ -1,4 +1,33 @@
+
 * {
-    background-color: rgb(140, 160, 167);
+   
     color: black;
+    
+   
+
+}
+.main-container {
+   text-align: center;
+   
+
+}
+ header {
+    margin-top: 92px;
+    background-image: url("img/perfection-bg.png");
+    background-size: cover;
+    justify-content: center;
+    height: 463px;
+} 
+.header-perfection {
+    margin-left: 50vh;
+    
+}
+.header-perfection-h1 {
+   text-align: center;
+   padding-top: 50%;
+   font-size: 38px;
+}
+.new-in {
+ margin-top: 625px;
+
 }
