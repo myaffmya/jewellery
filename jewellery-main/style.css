@@ -82,3 +82,9 @@
 .blog-h2 {
     font-size: 34px;
 }
+.blog-cards {
+    display: flexbox;
+}
+.blog-card1 {
+    background: #ffdfdf;
+}
